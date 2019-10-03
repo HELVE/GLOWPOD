@@ -3,8 +3,11 @@
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a> 
-# GLOWPOD - Advanced Relaxation Chamber
-Glowpod is a relaxation chamber tending to all your relaxation needs. It will sooth your senses, allow you to get into "the zone" quickly and efficiently.
+# XPod (AHRREC)
+XPod is an Advanced Health, Rescue, Relaxation and Experience Chamber (AHRREC). It has multiple functions depending on its intended use (from entertainment through mental health improvement to rescue & locate capabilities).
+
+## GLPD / Glowpod - Advanced Relaxation Chamber
+Glowopd is a relaxation chamber tending to all your relaxation needs. It will sooth your senses, allow you to get into "the zone" quickly and efficiently.
 
 - stable color / pulsating / chroma rotation
 - darkness mode (isolation mode - perhaps even submersible experience with oxygen mask and salt liquid for sensory deprivation, however that would go more along with the idea of a Healthpod - see below)
