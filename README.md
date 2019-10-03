@@ -6,6 +6,8 @@
 # GLOWPOD - Advanced Relaxation Chamber
 Glowpod is a relaxation chamber tending to all your relaxation needs. It will sooth your senses, allow you to get into "the zone" quickly and efficiently.
 
+- stable color / pulsating
+
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
 ![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
