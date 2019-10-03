@@ -11,6 +11,9 @@ Glowpod is a relaxation chamber tending to all your relaxation needs. It will so
 - sounds - compose your own audible environment (even add your own sounds) 
 - sounds - wide variety of real life and digital blend environments (enhanced enviro, it's like AR but for sound)
 - mood recognition & mindful mood transitioning
+- audiobooks?
+- only gentle visual stimulae
+- rogue mode: psychedelic trance visuals, be inside your trance (epilepsy warning).
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
