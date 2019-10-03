@@ -13,7 +13,8 @@ Glowpod is a relaxation chamber tending to all your relaxation needs. It will so
 - mood recognition & mindful mood transitioning
 - audiobooks?
 - only gentle visual stimulae
-- rogue mode: psychedelic trance visuals, be inside your trance (epilepsy warning).
+- experimental rogue mode: psychedelic trance visuals, be inside your trance (epilepsy warning).
+- 
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
