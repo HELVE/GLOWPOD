@@ -7,7 +7,7 @@
 Glowpod is a relaxation chamber tending to all your relaxation needs. It will sooth your senses, allow you to get into "the zone" quickly and efficiently.
 
 - stable color / pulsating / chroma rotation
-- darkness mode (isolation mode - perhaps even submersible experience with oxygen mask and salt liquid for sensory deprivation)
+- darkness mode (isolation mode - perhaps even submersible experience with oxygen mask and salt liquid for sensory deprivation, however that would go more along with the idea of a Healthpod - see below)
 - sounds - compose your own audible environment (even add your own sounds) 
 - sounds - wide variety of real life and digital blend environments (enhanced enviro, it's like AR but for sound)
 - mood recognition & mindful mood transitioning
