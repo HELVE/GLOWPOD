@@ -14,6 +14,8 @@ Glowpod is a relaxation chamber tending to all your relaxation needs. It will so
 - audiobooks?
 - only gentle visual stimulae
 - experimental rogue mode: psychedelic trance visuals, be inside your trance (epilepsy warning).
+
+## Alternative: HLPD (Healthpod)
 - idea on a bigger scale is an impenetrable rescuepod that can seek out and take away survivors.
 - alert signalling: rapid flashing light (help signal, local+remote activation) allows for locating both in daylight and in complete darkness.
 - alert signalling: sound horn (also for the purpose of locating the chamber)
