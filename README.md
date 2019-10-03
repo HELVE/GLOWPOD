@@ -1,4 +1,4 @@
-![Project Banner](/assets/readme_visuals/vaco-banner.png)
+![Project Banner](glowpod-idea.JPG)
 
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
