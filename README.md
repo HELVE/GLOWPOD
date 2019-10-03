@@ -21,14 +21,6 @@ Glowpod is a relaxation chamber tending to all your relaxation needs. It will so
 
 Fill the template structure with your own meaning, don't hesitate to make it yours. Modify the sections, omit or add elements as you please if a need arises. This template is supposed to work for you as fluid outline not as a rigid box - you know what you works best for a certain project, adjust accordingly.
 
-<a name="contribute"></a>
-### Contributing
-You are welcome to create issues and pull requests. Please either give general pitches or explain thoroughly what you would like to add if you have a specific vision. I will gladly brainstorm ideas with you.
-
-<a name="license"></a>
-### License
-Vacō is available for everyone under [MIT License - read more here](https://github.com/mothnode/vaco/blob/master/LICENSE.md).
-
 <a name="credits"></a>
 ### Credits
 + @mothnode
