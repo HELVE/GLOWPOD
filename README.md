@@ -8,7 +8,8 @@ Glowpod is a relaxation chamber tending to all your relaxation needs. It will so
 
 - stable color / pulsating / chroma rotation
 - darkness mode
-- sounds - compose your audible environment
+- sounds - compose your own audible environment (even add your own sounds) 
+- sounds - wide variety of real life and digital blend environments
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
