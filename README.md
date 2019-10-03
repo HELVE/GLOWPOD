@@ -18,6 +18,7 @@ Glowpod is a relaxation chamber tending to all your relaxation needs. It will so
 - alert signalling: rapid flashing light (help signal, local+remote activation) allows for locating both in daylight and in complete darkness.
 - alert signalling: sound horn (also for the purpose of locating the chamber)
 - onboard system has oxygen tanks, GPS tracker, library of psychological tutorials/sessions for an attempt at rapid mental health improvement after an accident (can be silenced by command if victim gets irritated by it.
+- voice commands, let the survivor know they are in control of their environment.
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
