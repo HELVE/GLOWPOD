@@ -43,6 +43,7 @@ Glowopd is a relaxation chamber tending to all your relaxation needs. It will so
 
 ## XPOD CHARGING STATION
 
+(logistics of recharging and application variety make it a complex problem to solve)
 
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
