@@ -30,6 +30,12 @@ Glowopd is a relaxation chamber tending to all your relaxation needs. It will so
 ## SGPD / Storagepod
 - more rigid and based on a principle of environmental protection.
 
+## DOGPOD / Military Applications
+- graphene coating for deep black stealth
+- active camo
+- circular vicinity EMP ability
+
+
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
