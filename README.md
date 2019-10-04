@@ -31,6 +31,7 @@ Glowopd is a relaxation chamber tending to all your relaxation needs. It will so
 - more rigid and based on a principle of environmental protection.
 - pressurized inner environment
 - no oxygen
+- cushioned/active amortization
 
 ## DOGPOD / Military Applications
 - graphene coating for deep black stealth
