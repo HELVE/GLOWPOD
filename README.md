@@ -27,6 +27,10 @@ Glowopd is a relaxation chamber tending to all your relaxation needs. It will so
 - voice commands, let the survivor know they are in control of their environment.
 - voice commands, AI voice bot, human-like for reassurance, subject age recognition (different AI conversational approaches: kid vs adult)
 
+## SGPD / Storagepod
+- more rigid and based on a principle of environmental protection.
+
+
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
 ![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
