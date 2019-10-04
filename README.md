@@ -29,6 +29,7 @@ Glowopd is a relaxation chamber tending to all your relaxation needs. It will so
 
 ## SGPD / Storagepod
 - more rigid and based on a principle of environmental protection.
+- pressurized inner environment
 
 ## DOGPOD / Military Applications
 - graphene coating for deep black stealth
