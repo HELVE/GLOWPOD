@@ -41,7 +41,7 @@ Glowopd is a relaxation chamber tending to all your relaxation needs. It will so
 - GPS tracking
 - sensor mode (gathering data from the environment)
 
-## XPOD CHARGING STATION
+## XPOD DOCKS - CHARGING STATION
 
 (logistics of recharging and application variety make it a complex problem to solve)
 
