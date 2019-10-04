@@ -36,6 +36,8 @@ Glowopd is a relaxation chamber tending to all your relaxation needs. It will so
 - graphene coating for deep black stealth
 - active camo
 - circular vicinity EMP ability
+- GPS tracking
+- sensor mode (gathering data from the environment)
 
 
 
