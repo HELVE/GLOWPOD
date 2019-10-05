@@ -3,7 +3,7 @@
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a> 
-# XPod (AHRREC)
+# XPod (AHRREC System)
 XPod is an Advanced Health, Rescue, Relaxation and Experience Chamber (AHRREC). It has multiple functions depending on its intended use (from entertainment through mental health improvement to rescue & locate capabilities).
 
 ## GLPD / Glowpod - Advanced Relaxation Chamber
